@@ -1,4 +1,4 @@
-## 💻 Código para Automatizar Backups com Python
+## 💻 Automação de Backups com Python
 
 - Código de automação desenvolvida em Python fazer backup diário de arquivos e pastas.
 
