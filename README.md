@@ -1,20 +1,14 @@
-# PythonBackup
+## 💻 Código para Automatizar Backups com Python
 
-> Automating Backups with Python
+- Código de automação desenvolvida em Python fazer backup diário de arquivos e pastas.
 
+## :rocket: Tecnologias
 
-API desenvolvida na liguagem Python para automatizar backups diários. 
+Neste projeto foram utilizadas as seguintes tecnologias:
 
-#
+- Python 3
 
-## Ferramentas utilizadas
+## ▶️ Utilização
+ - python backup_automatico.py
 
-[@Pycharm IDE](https://www.jetbrains.com/pt-br/pycharm/download/#section=windows)
-
-#
-
-
-
-## Meta
-
-Jorge Ramos – [@Jorge Ramos](https://www.linkedin.com/in/jorge-ramos-309763238/)
+☑️ Código desenvolvido em Python com objetivo de realização backup diários de arquivos e pastas.
